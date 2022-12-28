@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "description": "Amatak Hosting Panel",
+  "name": "amatak-panel",
+  "devDependencies": {
+    "webpack-defaults": "^4.0.0"
+  }
+}
